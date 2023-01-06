@@ -1920,10 +1920,14 @@ properties:
                 type: string
   serving_quantity:
     type: string
+    description: |
+      Normalized version of serving_size
+
+      <small>(in perl, see `normalize_serving_size`)</small>
   serving_size:
     type: string
     description: |
-      Serving size in g (or ml).
+      Serving size in g (or ml). The user is free to input a quantity + unit
   serving_size_imported:
     type: string
   sortkey:

@@ -1923,6 +1923,8 @@ properties:
     description: |
       Normalized version of serving_size
 
+      Note that this is NOT the number of servings by product.
+
       <small>(in perl, see `normalize_serving_size`)</small>
   serving_size:
     type: string

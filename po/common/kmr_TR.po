@@ -333,7 +333,7 @@ msgstr "kategori"
 
 msgctxt "categories_products"
 msgid "Products from the %s category"
-msgstr "%s k aSt ejgio rbierhemên"
+msgstr "% k aSt ejgio rbierhemên"
 
 msgctxt "categories_s"
 msgid "category"
@@ -5583,6 +5583,14 @@ msgstr ""
 # do not translate Eco-Score
 msgctxt "ecoscore_warning_international"
 msgid "The Eco-Score was initially developped for France and it is being extended to other European countries. The Eco-Score formula is subject to change as it is regularly improved to make it more precise and better suited to each country."
+msgstr ""
+
+msgctxt "ecoscore_warning_transportation_world"
+msgid "Select a country in order to include the full impact of transportation."
+msgstr ""
+
+msgctxt "ecoscore_warning_transportation"
+msgid "The full impact of transportation to your country is currently unknown."
 msgstr ""
 
 msgctxt "app_banner_text"

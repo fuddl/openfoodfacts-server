@@ -5614,6 +5614,14 @@ msgctxt "ecoscore_warning_international"
 msgid "The Eco-Score was initially developped for France and it is being extended to other European countries. The Eco-Score formula is subject to change as it is regularly improved to make it more precise and better suited to each country."
 msgstr "Eco-Score pada awalnya dikembangkan untuk Perancis dan sedang diperluas ke negara - negara Eropa lainnya. Formula Eco-Score dapat berubah sewaktu - sewaktu karena ia secara reguler ditingkatkan agar penghitungannya lebih presisi dan lebih cocok untuk setiap negara."
 
+msgctxt "ecoscore_warning_transportation_world"
+msgid "Select a country in order to include the full impact of transportation."
+msgstr ""
+
+msgctxt "ecoscore_warning_transportation"
+msgid "The full impact of transportation to your country is currently unknown."
+msgstr ""
+
 msgctxt "app_banner_text"
 msgid "Scan barcodes to get the Nutri-Score, the Eco-Score and more!"
 msgstr "Pindai kode batang untuk mendapatkan Nutri-Score, Eco-Score dan banyak lagi!"

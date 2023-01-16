@@ -5619,6 +5619,14 @@ msgctxt "ecoscore_warning_international"
 msgid "The Eco-Score was initially developped for France and it is being extended to other European countries. The Eco-Score formula is subject to change as it is regularly improved to make it more precise and better suited to each country."
 msgstr "Първоначално Eco-Score е разработен за Франция и се разширява и в други европейски страни. Формулата на Eco-Score подлежи на промяна, тъй като редовно се подобрява, за да бъде по-точна и по-подходяща за всяка страна."
 
+msgctxt "ecoscore_warning_transportation_world"
+msgid "Select a country in order to include the full impact of transportation."
+msgstr ""
+
+msgctxt "ecoscore_warning_transportation"
+msgid "The full impact of transportation to your country is currently unknown."
+msgstr ""
+
 msgctxt "app_banner_text"
 msgid "Scan barcodes to get the Nutri-Score, the Eco-Score and more!"
 msgstr "Сканирай баркодове, за да получиш Nutri-Score, Eco-Score и други!"
@@ -6093,21 +6101,21 @@ msgstr "Добави хранителните стойности"
 
 msgctxt "action_add_origins"
 msgid "Add the origins of ingredients for this product"
-msgstr ""
+msgstr "Добави произхода на съставките за този продукт"
 
 msgctxt "action_add_packaging_image"
 msgid "Take a photo of the recycling information"
-msgstr ""
+msgstr "Направи снимка на инструкциите за рециклиране"
 
 # this is not used yet
 msgctxt "action_add_basic_details"
 msgid "Add basic details"
-msgstr ""
+msgstr "Добави основни подробности"
 
 # this is not used yet
 msgctxt "action_add_portion_size"
 msgid "Add portion size"
-msgstr ""
+msgstr "Добави размера на порцията"
 
 # this is not used yet
 msgctxt "action_add_ingredients_image"
@@ -6122,22 +6130,22 @@ msgstr "Направи снимка на хранителните стойнос
 # this is not used yet
 msgctxt "action_refresh_ingredients_image"
 msgid "Refresh the photo of the ingredients"
-msgstr ""
+msgstr "Обнови снимката на съставките"
 
 # this is not used yet
 msgctxt "action_refresh_nutrition_image"
 msgid "Refresh the photo of the nutrition facts"
-msgstr ""
+msgstr "Обнови снимката с хранителните стойности"
 
 # this is not used yet
 msgctxt "action_add_packaging_text"
 msgid "Extract and check the recycling information"
-msgstr ""
+msgstr "Извлечи и провери информацията за рециклиране"
 
 # this is not used yet
 msgctxt "action_add_stores"
 msgid "Add the store where you found this product"
-msgstr ""
+msgstr "Добави магазина, където си намерил този продукт"
 
 # this is not used yet
 msgctxt "action_labels"
@@ -6147,12 +6155,12 @@ msgstr ""
 # this is not used yet
 msgctxt "action_countries"
 msgid "Add the country where you found this product"
-msgstr ""
+msgstr "Добави страната, в която си намерил този продукт"
 
 # this is not used yet
 msgctxt "action_packager_codes_image"
 msgid "Take a photo of traceability codes"
-msgstr ""
+msgstr "Направи снимка на кодовете за проследяване"
 
 # Used as a header for key facts
 msgctxt "knowledge_panels_facts"
@@ -6358,12 +6366,12 @@ msgstr "Полето е игнорирано"
 # Unit = element, not unit of measure
 msgctxt "packaging_number_of_units"
 msgid "Number of units"
-msgstr ""
+msgstr "Брой единици"
 
 # Unit = element, not unit of measure
 msgctxt "packaging_weight"
 msgid "Weight of one empty unit"
-msgstr ""
+msgstr "Тегло на една празна единица"
 
 # Unit = element, not unit of measure
 msgctxt "packaging_quantity_per_unit"
@@ -6377,13 +6385,13 @@ msgstr "Помогни за категоризирането на още {title}
 
 msgctxt "packagings_complete"
 msgid "All the packaging parts of the product are listed."
-msgstr ""
+msgstr "Изброени са всички части на опаковката на продукта."
 
 msgctxt "api_message_invalid_user_id_and_password"
 msgid "Invalid user id and password"
-msgstr ""
+msgstr "Невалидно потребителско име и парола"
 
 msgctxt "api_message_invalid_value_must_be_0_or_1"
 msgid "Invalid value: must be 0 or 1"
-msgstr ""
+msgstr "Невалидна стойност: трябва да бъде 0 или 1"
 

@@ -2422,7 +2422,7 @@ msgstr "חנויות"
 
 msgctxt "stores_products"
 msgid "Products sold at %s"
-msgstr "%s מוצרים שנמכרים אצל"
+msgstr "מוצרים שנמכרים אצל"
 
 msgctxt "stores_s"
 msgid "store"
@@ -5616,6 +5616,14 @@ msgstr "נוסחת Eco-Score עשויה להשתנות כיוון שהיא מש�
 msgctxt "ecoscore_warning_international"
 msgid "The Eco-Score was initially developped for France and it is being extended to other European countries. The Eco-Score formula is subject to change as it is regularly improved to make it more precise and better suited to each country."
 msgstr "Eco-Score פותח במקור בצרפת והוא מתפשט למדינות אירופיות נוספות. נוסחת Eco-Score עשויה להשתנות כיוון שהיא משתפרת באופן תמידי כדי שתהיה מדויקת, ככל הניתן, לכל מדינה ומדינה."
+
+msgctxt "ecoscore_warning_transportation_world"
+msgid "Select a country in order to include the full impact of transportation."
+msgstr "נא לבחור מדינה כדי לכלול את השפעותיה המלאות של התעבורה."
+
+msgctxt "ecoscore_warning_transportation"
+msgid "The full impact of transportation to your country is currently unknown."
+msgstr "ההשפעה המלאה של התעבורה למדינה שלך אינה ידועה כרגע."
 
 msgctxt "app_banner_text"
 msgid "Scan barcodes to get the Nutri-Score, the Eco-Score and more!"
